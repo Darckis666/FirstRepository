@@ -26,3 +26,4 @@
 9. Mobile Testing - Native, Hybrid, Mobile web
 10. Mobile Testing - Emulator vs Simulator
 11. Mobile Testing - Mobile Automation Tools - XCode, Android Studio, ABD, Monkey
+12.
