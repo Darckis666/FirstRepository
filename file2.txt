@@ -1,0 +1,28 @@
+Освободилась учетка для прохождения курсов udemy, предоставляю следующий график:
+1. Вячеслав Пан (13.02-27.02)
+2. Бауржан Мухаметченов (27.02-13.03)
+3. Нурсултан Кайсбеков (13.03-27.03)
+4. Станислав Городисский (27.03-10.04)
+5. Асем Турсынгалиева (10.04-24.04)
+6. Дмитрий Тен (24.04-8.05)
+
+Нужно пройти следующие курсы и получить сертификат:
+1.Тестируем API при помощи Postman
+2.Jenkins - шаг за шагом
+3.Тестируем программы при помощи JMetr
+4.Тестирование ПО для начинающих: SQL, Postman, Jira, Git
+5.Git: полный курс для начинающих и не только
+6. Тестирование мобильных приложений
+
+Пройдя эти курсы в роадмапе можно будет закрыть следующие полученные знания:
+1. Нефункциональные виды тестирования
+2. Начальные занния Bash и PowerShell
+3. Type of Automation - API
+4. Api automation - Programs - Postman
+5. Continuous integration Delivery Deployment - Hosting Plftform - Git
+6. Continuous integration Delivery Deployment - Orchestration - Jenkins
+7. Performance Testing - Taxonomy - Load, Stress
+8. Performance Testing - Tools - Jmetr
+9. Mobile Testing - Native, Hybrid, Mobile web
+10. Mobile Testing - Emulator vs Simulator
+11. Mobile Testing - Mobile Automation Tools - XCode, Android Studio, ABD, Monkey
