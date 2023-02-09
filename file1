@@ -1,8 +1,4 @@
 Hello
 Good Bye!!!
 SSH
-<<<<<<< HEAD
-bug fix
-=======
-branch test merge
->>>>>>> add2
+(from branch add-feature1)
